@@ -31,4 +31,3 @@ Hello there 👋 I am Ruweydha
     </div>
 </div>
 
-![Ruweydha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruweydha&theme=gotham&layout=compact)
